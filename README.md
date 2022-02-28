@@ -1,3 +1,4 @@
+## Find your app hosted at https://third-wharf-342109.uc.r.appspot.com
 ## Your express app starts here ✨ 
 Congrats on deploying your express app on GCP 🎉 <br />
 Find below the details of your deployment and more <br />
